@@ -113,7 +113,8 @@ const TRANSLATIONS = {
       navLabel: "Sections",
       langToggleLabel: "Switch language to Slovak",
       langToggleText: "SK",
-      metaTitle: "Matúš Cuninka – Full-Stack, AI & Automation Engineer",      metaDescription:
+      metaTitle: "Matúš Cuninka – Full-Stack, AI & Automation Engineer",      
+      metaDescription:
         "Portfolio of Matúš Cuninka: web and mobile apps, AI integrations, automation and server setup. Based in Trnava, Slovakia.",
     },
   },
@@ -210,7 +211,8 @@ const TRANSLATIONS = {
       navLabel: "Sekcie",
       langToggleLabel: "Prepnúť jazyk na angličtinu",
       langToggleText: "EN",
-      metaTitle: "Matúš Cuninka – Full-Stack, AI & Automation Engineer",      metaDescription:
+      metaTitle: "Matúš Cuninka – Full-Stack, AI & Automation Engineer",      
+      metaDescription:
         "Portfólio Matúša Cuninku: webové a mobilné aplikácie, AI integrácie, automatizácia a nastavenie serverov. Sídlim v Trnave.",
     },
   },
